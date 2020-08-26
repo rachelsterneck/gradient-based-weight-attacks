@@ -1,0 +1,1 @@
+# python main.py --data CIFAR10 --model_name ResNet18 --model_path ./models/cifar10/cifar10_resnet18.pth --epsilons 1 2 3 --layer_idx 5 17 --cuda --num_weights 10
